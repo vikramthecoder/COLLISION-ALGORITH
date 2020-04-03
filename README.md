@@ -1,2 +1,2 @@
-# COLLISION-ALGORITH
-JAVA SCRIPT
+# p5.play-boilerplate
+Boiler plate for p5.play
